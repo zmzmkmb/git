@@ -1,0 +1,1402 @@
+[
+  {
+    "head": "节奏",
+    "relation": "包含",
+    "tail": "张驰",
+    "source_doc": "玄幻小说创作入门指南.doc",
+    "source_chunk": 412
+  },
+  {
+    "head": "节奏",
+    "relation": "包含",
+    "tail": "抑扬",
+    "source_doc": "玄幻小说创作入门指南.doc",
+    "source_chunk": 412
+  },
+  {
+    "head": "冲突",
+    "relation": "包含",
+    "tail": "个人",
+    "source_doc": "网络小说写作技巧集锦.doc",
+    "source_chunk": 2988
+  },
+  {
+    "head": "冲突",
+    "relation": "包含",
+    "tail": "社会",
+    "source_doc": "网络小说写作技巧集锦.doc",
+    "source_chunk": 2988
+  },
+  {
+    "head": "冲突",
+    "relation": "包含",
+    "tail": "自然",
+    "source_doc": "网络小说写作技巧集锦.doc",
+    "source_chunk": 2988
+  },
+  {
+    "head": "小说",
+    "relation": "需要",
+    "tail": "冲突",
+    "source_doc": "短篇小说写作指南.pdf",
+    "source_chunk": 2838
+  },
+  {
+    "head": "开篇",
+    "relation": "需要",
+    "tail": "精彩",
+    "source_doc": "小说写作.doc",
+    "source_chunk": 914
+  },
+  {
+    "head": "开篇",
+    "relation": "需要",
+    "tail": "点题",
+    "source_doc": "柳下挥.doc",
+    "source_chunk": 2455
+  },
+  {
+    "head": "小说",
+    "relation": "包含",
+    "tail": "开局",
+    "source_doc": "小说写作.doc",
+    "source_chunk": 344
+  },
+  {
+    "head": "小说",
+    "relation": "需要",
+    "tail": "客观",
+    "source_doc": "2.怎样写好玄幻小说.doc",
+    "source_chunk": 816
+  },
+  {
+    "head": "小说",
+    "relation": "需要",
+    "tail": "大纲",
+    "source_doc": "2.如何写好开头三万字.doc",
+    "source_chunk": 848
+  },
+  {
+    "head": "小说",
+    "relation": "包括",
+    "tail": "故事",
+    "source_doc": "网络小说写作技巧集锦.doc",
+    "source_chunk": 2979
+  },
+  {
+    "head": "小说",
+    "relation": "包括",
+    "tail": "情节",
+    "source_doc": "网络小说写作技巧集锦.doc",
+    "source_chunk": 2979
+  },
+  {
+    "head": "小说",
+    "relation": "包括",
+    "tail": "细节",
+    "source_doc": "网络小说写作技巧集锦.doc",
+    "source_chunk": 2979
+  },
+  {
+    "head": "小说",
+    "relation": "需要",
+    "tail": "改变",
+    "source_doc": "骨刀总结写作资料.doc",
+    "source_chunk": 3078
+  },
+  {
+    "head": "作品",
+    "relation": "包含",
+    "tail": "高潮",
+    "source_doc": "华夏原创写作指南.doc",
+    "source_chunk": 2605
+  },
+  {
+    "head": "情节",
+    "relation": "需要",
+    "tail": "丰满",
+    "source_doc": "骨刀总结写作资料.doc",
+    "source_chunk": 3099
+  },
+  {
+    "head": "故事",
+    "relation": "包含",
+    "tail": "情节",
+    "source_doc": "云天空.doc",
+    "source_chunk": 2373
+  },
+  {
+    "head": "开头",
+    "relation": "需要",
+    "tail": "精简",
+    "source_doc": "1.如何优化作品开篇.doc",
+    "source_chunk": 99
+  },
+  {
+    "head": "开头",
+    "relation": "需要",
+    "tail": "悬念",
+    "source_doc": "隐为者.doc",
+    "source_chunk": 2494
+  },
+  {
+    "head": "开头",
+    "relation": "需要",
+    "tail": "新意",
+    "source_doc": "隐为者.doc",
+    "source_chunk": 2494
+  },
+  {
+    "head": "小说",
+    "relation": "需要",
+    "tail": "节奏感",
+    "source_doc": "军事类小说的写法.doc",
+    "source_chunk": 736
+  },
+  {
+    "head": "爽点",
+    "relation": "包括",
+    "tail": "升级快",
+    "source_doc": "套路.doc",
+    "source_chunk": 339
+  },
+  {
+    "head": "爽点",
+    "relation": "包括",
+    "tail": "感情戏",
+    "source_doc": "官场小说的爽点总结.doc",
+    "source_chunk": 781
+  },
+  {
+    "head": "爽点",
+    "relation": "包括",
+    "tail": "商战戏",
+    "source_doc": "官场小说的爽点总结.doc",
+    "source_chunk": 781
+  },
+  {
+    "head": "开头",
+    "relation": "需要",
+    "tail": "冲突点",
+    "source_doc": "隐为者.doc",
+    "source_chunk": 2494
+  },
+  {
+    "head": "开篇",
+    "relation": "需要",
+    "tail": "吸引人",
+    "source_doc": "小说速成大纲.doc",
+    "source_chunk": 362
+  },
+  {
+    "head": "小说",
+    "relation": "需要",
+    "tail": "连贯性",
+    "source_doc": "军事类小说的写法.doc",
+    "source_chunk": 736
+  },
+  {
+    "head": "小说",
+    "relation": "需要",
+    "tail": "大高潮",
+    "source_doc": "异能.doc",
+    "source_chunk": 2383
+  },
+  {
+    "head": "悬念",
+    "relation": "分类",
+    "tail": "总悬念",
+    "source_doc": "2.如何加强书的情节.doc",
+    "source_chunk": 155
+  },
+  {
+    "head": "开头",
+    "relation": "需要",
+    "tail": "不一般",
+    "source_doc": "1.主编谈言情写作与签约.doc",
+    "source_chunk": 296
+  },
+  {
+    "head": "开头",
+    "relation": "需要",
+    "tail": "进入快",
+    "source_doc": "骨刀总结写作资料.doc",
+    "source_chunk": 3099
+  },
+  {
+    "head": "节奏",
+    "relation": "需要",
+    "tail": "张弛有力",
+    "source_doc": "3.上架作品更新秘诀.doc",
+    "source_chunk": 5
+  },
+  {
+    "head": "节奏",
+    "relation": "影响",
+    "tail": "情绪起伏",
+    "source_doc": "网文写作技巧+出版基础知识.pdf",
+    "source_chunk": 2921
+  },
+  {
+    "head": "节奏",
+    "relation": "影响",
+    "tail": "情节结构",
+    "source_doc": "网络小说写作技巧集锦.doc",
+    "source_chunk": 2988
+  },
+  {
+    "head": "爽点",
+    "relation": "包括",
+    "tail": "废材翻身",
+    "source_doc": "套路.doc",
+    "source_chunk": 339
+  },
+  {
+    "head": "爽点",
+    "relation": "包括",
+    "tail": "女主无敌",
+    "source_doc": "套路.doc",
+    "source_chunk": 339
+  },
+  {
+    "head": "爽点",
+    "relation": "包括",
+    "tail": "众男围绕",
+    "source_doc": "套路.doc",
+    "source_chunk": 339
+  },
+  {
+    "head": "爽点",
+    "relation": "包括",
+    "tail": "招商引资",
+    "source_doc": "11.梦入洪荒谈官场小说写作.doc",
+    "source_chunk": 671
+  },
+  {
+    "head": "爽点",
+    "relation": "包括",
+    "tail": "打黑除恶",
+    "source_doc": "官场小说的爽点总结.doc",
+    "source_chunk": 781
+  },
+  {
+    "head": "作品",
+    "relation": "需要",
+    "tail": "修改",
+    "source_doc": "小说速成大纲.doc",
+    "source_chunk": 360
+  },
+  {
+    "head": "作品",
+    "relation": "需要",
+    "tail": "推荐",
+    "source_doc": "2.起点主编：好作者，必须有自知之明.doc",
+    "source_chunk": 645
+  },
+  {
+    "head": "作品",
+    "relation": "包含",
+    "tail": "世界观",
+    "source_doc": "1.详解新作者常见困难和瓶颈.doc",
+    "source_chunk": 847
+  },
+  {
+    "head": "开篇",
+    "relation": "需要",
+    "tail": "出现矛盾",
+    "source_doc": "1.小说签约的标准.doc",
+    "source_chunk": 73
+  },
+  {
+    "head": "开篇",
+    "relation": "需要",
+    "tail": "出现主角",
+    "source_doc": "1.小说签约的标准.doc",
+    "source_chunk": 73
+  },
+  {
+    "head": "开篇",
+    "relation": "需要",
+    "tail": "行文流畅",
+    "source_doc": "大纲的重要性&新文开篇.doc",
+    "source_chunk": 907
+  },
+  {
+    "head": "作品",
+    "relation": "包含",
+    "tail": "故事背景",
+    "source_doc": "1.详解新作者常见困难和瓶颈.doc",
+    "source_chunk": 847
+  },
+  {
+    "head": "作品",
+    "relation": "包含",
+    "tail": "人物角色",
+    "source_doc": "1.详解新作者常见困难和瓶颈.doc",
+    "source_chunk": 847
+  },
+  {
+    "head": "作品",
+    "relation": "包含",
+    "tail": "主要剧情",
+    "source_doc": "1.详解新作者常见困难和瓶颈.doc",
+    "source_chunk": 847
+  },
+  {
+    "head": "作品",
+    "relation": "需要",
+    "tail": "质量提高",
+    "source_doc": "总论(1).doc",
+    "source_chunk": 2417
+  },
+  {
+    "head": "作品",
+    "relation": "需要",
+    "tail": "真实情感",
+    "source_doc": "写大众小说常犯的错.doc",
+    "source_chunk": 2568
+  },
+  {
+    "head": "作品简介",
+    "relation": "要求",
+    "tail": "300字内",
+    "source_doc": "8.出版知识小课堂.doc",
+    "source_chunk": 21
+  },
+  {
+    "head": "凤头",
+    "relation": "包含",
+    "tail": "尖锐的情节",
+    "source_doc": "1.网络小说完本的重要性和完本后如何开新书(1).doc",
+    "source_chunk": 157
+  },
+  {
+    "head": "凤头",
+    "relation": "包含",
+    "tail": "显眼的人物",
+    "source_doc": "1.网络小说完本的重要性和完本后如何开新书(1).doc",
+    "source_chunk": 157
+  },
+  {
+    "head": "开篇",
+    "relation": "需要",
+    "tail": "产生期待感",
+    "source_doc": "柳下挥.doc",
+    "source_chunk": 2455
+  },
+  {
+    "head": "作品",
+    "relation": "需要",
+    "tail": "让别人读到",
+    "source_doc": "写作技巧之15条小技巧.doc",
+    "source_chunk": 2539
+  },
+  {
+    "head": "作品",
+    "relation": "需要",
+    "tail": "质量是根本",
+    "source_doc": "半神攻略.doc",
+    "source_chunk": 2600
+  },
+  {
+    "head": "简介",
+    "relation": "作用",
+    "tail": "作品的灵魂",
+    "source_doc": "网文写作技巧+出版基础知识.pdf",
+    "source_chunk": 2904
+  },
+  {
+    "head": "凤头",
+    "relation": "指",
+    "tail": "开头吸引读者",
+    "source_doc": "4.创作会经常遇到的问题.doc",
+    "source_chunk": 193
+  },
+  {
+    "head": "开篇",
+    "relation": "要求",
+    "tail": "节奏快不拖沓",
+    "source_doc": "1.军婚宠文创作指导(1).doc",
+    "source_chunk": 247
+  },
+  {
+    "head": "开篇",
+    "relation": "需要",
+    "tail": "有亮点的情节",
+    "source_doc": "4.言情文的写作线索.doc",
+    "source_chunk": 267
+  },
+  {
+    "head": "作品",
+    "relation": "要求",
+    "tail": "开篇直奔主线",
+    "source_doc": "7.17K签约编辑谈如何审书签书.doc",
+    "source_chunk": 656
+  },
+  {
+    "head": "书名",
+    "relation": "需要",
+    "tail": "体现作品特色",
+    "source_doc": "如何更好地包装作品.doc",
+    "source_chunk": 3153
+  },
+  {
+    "head": "书名简介",
+    "relation": "要求",
+    "tail": "顺口、容易记住",
+    "source_doc": "2.无线写文注意事项.doc",
+    "source_chunk": 3
+  },
+  {
+    "head": "凤头",
+    "relation": "包含",
+    "tail": "畅通的阅读快感",
+    "source_doc": "1.网络小说完本的重要性和完本后如何开新书(1).doc",
+    "source_chunk": 157
+  },
+  {
+    "head": "开篇",
+    "relation": "需要",
+    "tail": "营造主角的心理",
+    "source_doc": "小说速成大纲.doc",
+    "source_chunk": 357
+  },
+  {
+    "head": "开篇",
+    "relation": "需要",
+    "tail": "主角及时的出场",
+    "source_doc": "柳下挥.doc",
+    "source_chunk": 2455
+  },
+  {
+    "head": "开篇",
+    "relation": "要求",
+    "tail": "千字内定阅读对象",
+    "source_doc": "华夏原创写作指南.doc",
+    "source_chunk": 2605
+  },
+  {
+    "head": "书名",
+    "relation": "需要",
+    "tail": "符合作品行文风格",
+    "source_doc": "如何更好地包装作品.doc",
+    "source_chunk": 3153
+  },
+  {
+    "head": "书名简介",
+    "relation": "要求",
+    "tail": "符合女频文主流风格",
+    "source_doc": "2.无线写文注意事项.doc",
+    "source_chunk": 3
+  },
+  {
+    "head": "作品简介",
+    "relation": "要求",
+    "tail": "200字内营造噱头",
+    "source_doc": "2.无线写文注意事项.doc",
+    "source_chunk": 3
+  },
+  {
+    "head": "开篇",
+    "relation": "需要",
+    "tail": "营造主角的内心需求",
+    "source_doc": "小说速成大纲.doc",
+    "source_chunk": 357
+  },
+  {
+    "head": "开篇",
+    "relation": "需要",
+    "tail": "营造人物背景和关系",
+    "source_doc": "小说速成大纲.doc",
+    "source_chunk": 357
+  },
+  {
+    "head": "书名",
+    "relation": "影响",
+    "tail": "作品被记住的可能性",
+    "source_doc": "如何运营你的作品.doc",
+    "source_chunk": 3158
+  },
+  {
+    "head": "作品",
+    "relation": "需要",
+    "tail": "让读者理解并产生满足感",
+    "source_doc": "奇幻小说指南.doc",
+    "source_chunk": 2613
+  },
+  {
+    "head": "分成",
+    "relation": "要求",
+    "tail": "分成作品的独家互联网版权",
+    "source_doc": "3.大型小说网站解析.doc",
+    "source_chunk": 32
+  },
+  {
+    "head": "人物设定",
+    "relation": "包含",
+    "tail": "外貌",
+    "source_doc": "写作大纲的技巧和注意事项（培训篇）.doc",
+    "source_chunk": 865
+  },
+  {
+    "head": "人物设定",
+    "relation": "包含",
+    "tail": "性格",
+    "source_doc": "写作大纲的技巧和注意事项（培训篇）.doc",
+    "source_chunk": 865
+  },
+  {
+    "head": "角色",
+    "relation": "需要",
+    "tail": "什么",
+    "source_doc": "骨刀总结写作资料.doc",
+    "source_chunk": 3087
+  },
+  {
+    "head": "角色",
+    "relation": "分为",
+    "tail": "路人甲",
+    "source_doc": "常见类型及写作技巧分析.doc",
+    "source_chunk": 2675
+  },
+  {
+    "head": "角色",
+    "relation": "分为",
+    "tail": "宋兵乙",
+    "source_doc": "常见类型及写作技巧分析.doc",
+    "source_chunk": 2675
+  },
+  {
+    "head": "主角",
+    "relation": "包含",
+    "tail": "角色一",
+    "source_doc": "小说大纲模版.doc",
+    "source_chunk": 924
+  },
+  {
+    "head": "主角",
+    "relation": "包含",
+    "tail": "角色二",
+    "source_doc": "小说大纲模版.doc",
+    "source_chunk": 924
+  },
+  {
+    "head": "人物设定",
+    "relation": "要求",
+    "tail": "性格鲜明",
+    "source_doc": "2.无线写文注意事项.doc",
+    "source_chunk": 3
+  },
+  {
+    "head": "人物设定",
+    "relation": "要求",
+    "tail": "必须讨喜",
+    "source_doc": "网文写作技巧+出版基础知识.pdf",
+    "source_chunk": 2909
+  },
+  {
+    "head": "人物设定",
+    "relation": "需要",
+    "tail": "分清主次",
+    "source_doc": "网文写作技巧+出版基础知识.pdf",
+    "source_chunk": 2919
+  },
+  {
+    "head": "小说",
+    "relation": "需要",
+    "tail": "背景设定",
+    "source_doc": "隐为者.doc",
+    "source_chunk": 2494
+  },
+  {
+    "head": "小说",
+    "relation": "需要",
+    "tail": "把握时机",
+    "source_doc": "17.烟枪谈如何构架写作悬念.doc",
+    "source_chunk": 702
+  },
+  {
+    "head": "小说",
+    "relation": "需要",
+    "tail": "戏剧冲突",
+    "source_doc": "4.怎样写小说才会不枯燥.doc",
+    "source_chunk": 853
+  },
+  {
+    "head": "小说",
+    "relation": "需要",
+    "tail": "故事主线",
+    "source_doc": "隐为者.doc",
+    "source_chunk": 2494
+  },
+  {
+    "head": "小说",
+    "relation": "需要",
+    "tail": "主要卖点",
+    "source_doc": "隐为者.doc",
+    "source_chunk": 2494
+  },
+  {
+    "head": "小说",
+    "relation": "需要",
+    "tail": "内容简介",
+    "source_doc": "隐为者.doc",
+    "source_chunk": 2494
+  },
+  {
+    "head": "小说",
+    "relation": "目的是",
+    "tail": "让读者爽",
+    "source_doc": "隐为者.doc",
+    "source_chunk": 2500
+  },
+  {
+    "head": "小说",
+    "relation": "需要",
+    "tail": "让人相信",
+    "source_doc": "写大众小说常犯的错.doc",
+    "source_chunk": 2559
+  },
+  {
+    "head": "小说",
+    "relation": "属于",
+    "tail": "文学语言",
+    "source_doc": "故事与小说的区别.doc",
+    "source_chunk": 3159
+  },
+  {
+    "head": "玄幻",
+    "relation": "属于",
+    "tail": "幻想小说",
+    "source_doc": "百里玺.doc",
+    "source_chunk": 2462
+  },
+  {
+    "head": "角色",
+    "relation": "影响",
+    "tail": "拍摄成本",
+    "source_doc": "小说速成大纲.doc",
+    "source_chunk": 379
+  },
+  {
+    "head": "角色",
+    "relation": "需要",
+    "tail": "有行动力",
+    "source_doc": "写大众小说常犯的错.doc",
+    "source_chunk": 2559
+  },
+  {
+    "head": "角色",
+    "relation": "分为",
+    "tail": "重要配角",
+    "source_doc": "常见类型及写作技巧分析.doc",
+    "source_chunk": 2675
+  },
+  {
+    "head": "小说",
+    "relation": "需要",
+    "tail": "完整的故事",
+    "source_doc": "军事类小说的写法.doc",
+    "source_chunk": 736
+  },
+  {
+    "head": "小说",
+    "relation": "需要",
+    "tail": "明确的主题",
+    "source_doc": "军事类小说的写法.doc",
+    "source_chunk": 736
+  },
+  {
+    "head": "小说",
+    "relation": "需要",
+    "tail": "构思和表现",
+    "source_doc": "小说创作之魂——欺骗术加催眠术 - 来源网络.doc",
+    "source_chunk": 1625
+  },
+  {
+    "head": "小说",
+    "relation": "定义",
+    "tail": "虚构的故事",
+    "source_doc": "骨刀总结写作资料.doc",
+    "source_chunk": 3089
+  },
+  {
+    "head": "人物设定",
+    "relation": "包含",
+    "tail": "主要人物设定",
+    "source_doc": "2.无线写文注意事项.doc",
+    "source_chunk": 3
+  },
+  {
+    "head": "主角",
+    "relation": "需要",
+    "tail": "强",
+    "source_doc": "新手选题和大纲拓展.doc",
+    "source_chunk": 2687
+  },
+  {
+    "head": "对话",
+    "relation": "需要",
+    "tail": "自然",
+    "source_doc": "短篇小说写作指南.pdf",
+    "source_chunk": 2872
+  },
+  {
+    "head": "描写",
+    "relation": "需要",
+    "tail": "经验",
+    "source_doc": "7.网文写作中的临场码字法.doc",
+    "source_chunk": 858
+  },
+  {
+    "head": "主角",
+    "relation": "需要",
+    "tail": "升级",
+    "source_doc": "1.网络小说的爽点是什么.doc",
+    "source_chunk": 138
+  },
+  {
+    "head": "主角",
+    "relation": "需要",
+    "tail": "超强",
+    "source_doc": "小说写作素材之——小说写作新手选题和大纲扩展的总结(6).doc",
+    "source_chunk": 350
+  },
+  {
+    "head": "主角",
+    "relation": "需要",
+    "tail": "目标",
+    "source_doc": "小说写作素材之——小说写作新手选题和大纲扩展的总结(6).doc",
+    "source_chunk": 922
+  },
+  {
+    "head": "主角",
+    "relation": "需要",
+    "tail": "特色",
+    "source_doc": "总论(1).doc",
+    "source_chunk": 2402
+  },
+  {
+    "head": "主角",
+    "relation": "需要",
+    "tail": "修炼",
+    "source_doc": "隐为者.doc",
+    "source_chunk": 2502
+  },
+  {
+    "head": "主角",
+    "relation": "需要",
+    "tail": "低调",
+    "source_doc": "骨刀总结写作资料.doc",
+    "source_chunk": 3072
+  },
+  {
+    "head": "写作",
+    "relation": "包含",
+    "tail": "名词",
+    "source_doc": "写作这回事 - .pdf",
+    "source_chunk": 1495
+  },
+  {
+    "head": "写作",
+    "relation": "包含",
+    "tail": "动词",
+    "source_doc": "写作这回事 - .pdf",
+    "source_chunk": 1495
+  },
+  {
+    "head": "写作",
+    "relation": "需要",
+    "tail": "房间",
+    "source_doc": "写作这回事 - .pdf",
+    "source_chunk": 1507
+  },
+  {
+    "head": "写作",
+    "relation": "需要",
+    "tail": "房门",
+    "source_doc": "写作这回事 - .pdf",
+    "source_chunk": 1507
+  },
+  {
+    "head": "写作",
+    "relation": "需要",
+    "tail": "毅力",
+    "source_doc": "赵子曰.doc",
+    "source_chunk": 2493
+  },
+  {
+    "head": "写作",
+    "relation": "需要",
+    "tail": "激情",
+    "source_doc": "耳根.doc",
+    "source_chunk": 2485
+  },
+  {
+    "head": "写作",
+    "relation": "需要",
+    "tail": "抉择",
+    "source_doc": "小说写作的几个关键词.doc",
+    "source_chunk": 2651
+  },
+  {
+    "head": "写作",
+    "relation": "要求",
+    "tail": "耐性",
+    "source_doc": "短篇小说写作指南.pdf",
+    "source_chunk": 2803
+  },
+  {
+    "head": "设定",
+    "relation": "包含",
+    "tail": "灵根",
+    "source_doc": "百里玺.doc",
+    "source_chunk": 2461
+  },
+  {
+    "head": "设定",
+    "relation": "包含",
+    "tail": "职业",
+    "source_doc": "百里玺.doc",
+    "source_chunk": 2461
+  },
+  {
+    "head": "设定",
+    "relation": "包含",
+    "tail": "门派",
+    "source_doc": "百里玺.doc",
+    "source_chunk": 2461
+  },
+  {
+    "head": "故事",
+    "relation": "需要",
+    "tail": "修改",
+    "source_doc": "详解新作者常见困难和瓶颈.doc",
+    "source_chunk": 432
+  },
+  {
+    "head": "故事",
+    "relation": "包含",
+    "tail": "主线",
+    "source_doc": "云天空.doc",
+    "source_chunk": 2373
+  },
+  {
+    "head": "故事",
+    "relation": "需要",
+    "tail": "推动",
+    "source_doc": "写大众小说常犯的错.doc",
+    "source_chunk": 2558
+  },
+  {
+    "head": "故事",
+    "relation": "需要",
+    "tail": "改变",
+    "source_doc": "骨刀总结写作资料.doc",
+    "source_chunk": 3077
+  },
+  {
+    "head": "故事",
+    "relation": "属于",
+    "tail": "口语",
+    "source_doc": "故事与小说的区别.doc",
+    "source_chunk": 3159
+  },
+  {
+    "head": "对话",
+    "relation": "需要",
+    "tail": "画面感",
+    "source_doc": "写文小问题杂谈1.doc",
+    "source_chunk": 2579
+  },
+  {
+    "head": "主角",
+    "relation": "需要",
+    "tail": "聚焦点",
+    "source_doc": "4.人物刻画的几点心得.doc",
+    "source_chunk": 122
+  },
+  {
+    "head": "主角",
+    "relation": "需要",
+    "tail": "难任务",
+    "source_doc": "1.网络小说的爽点是什么.doc",
+    "source_chunk": 144
+  },
+  {
+    "head": "主角",
+    "relation": "需要",
+    "tail": "遮羞布",
+    "source_doc": "1.网络小说的爽点是什么.doc",
+    "source_chunk": 144
+  },
+  {
+    "head": "中国没有科幻剧",
+    "relation": "原因",
+    "tail": "误区",
+    "source_doc": "小说速成大纲.doc",
+    "source_chunk": 961
+  },
+  {
+    "head": "语言描写",
+    "relation": "应用",
+    "tail": "黑人语言",
+    "source_doc": "2.浅谈小说人物形象塑造的重要性.doc",
+    "source_chunk": 119
+  },
+  {
+    "head": "柳下挥",
+    "relation": "建议",
+    "tail": "加快剧情",
+    "source_doc": "柳下挥.doc",
+    "source_chunk": 2450
+  },
+  {
+    "head": "误区",
+    "relation": "包括",
+    "tail": "基础误区",
+    "source_doc": "2.网络文学创作的误区.doc",
+    "source_chunk": 189
+  },
+  {
+    "head": "隐藏写作技巧",
+    "relation": "包括",
+    "tail": "隐藏对话",
+    "source_doc": "小说写作.doc",
+    "source_chunk": 349
+  },
+  {
+    "head": "隐藏写作技巧",
+    "relation": "包括",
+    "tail": "隐藏表情",
+    "source_doc": "小说写作.doc",
+    "source_chunk": 349
+  },
+  {
+    "head": "隐藏写作技巧",
+    "relation": "包含",
+    "tail": "隐藏对话",
+    "source_doc": "小说写作.doc",
+    "source_chunk": 920
+  },
+  {
+    "head": "隐藏写作技巧",
+    "relation": "包含",
+    "tail": "隐藏表情",
+    "source_doc": "小说写作.doc",
+    "source_chunk": 920
+  },
+  {
+    "head": "隐藏艺术",
+    "relation": "包括",
+    "tail": "隐藏对话",
+    "source_doc": "小说写作.doc",
+    "source_chunk": 919
+  },
+  {
+    "head": "隐藏艺术",
+    "relation": "包括",
+    "tail": "隐藏表情",
+    "source_doc": "小说写作.doc",
+    "source_chunk": 919
+  },
+  {
+    "head": "柳下挥",
+    "relation": "建议",
+    "tail": "先做人物卡",
+    "source_doc": "柳下挥.doc",
+    "source_chunk": 2450
+  },
+  {
+    "head": "柳下挥",
+    "relation": "建议",
+    "tail": "明确读者群",
+    "source_doc": "柳下挥.doc",
+    "source_chunk": 2450
+  },
+  {
+    "head": "留住读者",
+    "relation": "方法",
+    "tail": "高潮时结束",
+    "source_doc": "6.云天空讲课实录.doc",
+    "source_chunk": 718
+  },
+  {
+    "head": "柳下挥",
+    "relation": "建议",
+    "tail": "少写心理描写",
+    "source_doc": "柳下挥.doc",
+    "source_chunk": 2450
+  },
+  {
+    "head": "《悲惨世界》",
+    "relation": "包括",
+    "tail": "心理细节描写",
+    "source_doc": "网络小说写作技巧集锦.doc",
+    "source_chunk": 2979
+  },
+  {
+    "head": "细节描写",
+    "relation": "作用",
+    "tail": "刻画人物性格",
+    "source_doc": "1.何为细腻的文笔.doc",
+    "source_chunk": 173
+  },
+  {
+    "head": "细节描写",
+    "relation": "作用",
+    "tail": "丰满人物形象",
+    "source_doc": "1.何为细腻的文笔.doc",
+    "source_chunk": 173
+  },
+  {
+    "head": "细节描写",
+    "relation": "作用",
+    "tail": "连接故事情节",
+    "source_doc": "1.何为细腻的文笔.doc",
+    "source_chunk": 173
+  },
+  {
+    "head": "细节描写",
+    "relation": "作用",
+    "tail": "丰富作品内涵",
+    "source_doc": "1.何为细腻的文笔.doc",
+    "source_chunk": 173
+  },
+  {
+    "head": "《悲惨世界》",
+    "relation": "包括",
+    "tail": "社会细节描写",
+    "source_doc": "网络小说写作技巧集锦.doc",
+    "source_chunk": 2979
+  },
+  {
+    "head": "《悲惨世界》",
+    "relation": "包括",
+    "tail": "历史细节描写",
+    "source_doc": "网络小说写作技巧集锦.doc",
+    "source_chunk": 2979
+  },
+  {
+    "head": "《悲惨世界》",
+    "relation": "包括",
+    "tail": "自然细节描写",
+    "source_doc": "网络小说写作技巧集锦.doc",
+    "source_chunk": 2979
+  },
+  {
+    "head": "高潮时",
+    "relation": "需要",
+    "tail": "加强细节描写",
+    "source_doc": "骨刀总结写作资料.doc",
+    "source_chunk": 3099
+  },
+  {
+    "head": "隐藏写作技巧",
+    "relation": "包括",
+    "tail": "隐藏心理描写",
+    "source_doc": "小说写作.doc",
+    "source_chunk": 349
+  },
+  {
+    "head": "隐藏写作技巧",
+    "relation": "包含",
+    "tail": "隐藏心理描写",
+    "source_doc": "小说写作.doc",
+    "source_chunk": 920
+  },
+  {
+    "head": "隐藏艺术",
+    "relation": "包括",
+    "tail": "隐藏心理描写",
+    "source_doc": "小说写作.doc",
+    "source_chunk": 919
+  },
+  {
+    "head": "柳下挥",
+    "relation": "建议",
+    "tail": "先自己感觉爽",
+    "source_doc": "柳下挥.doc",
+    "source_chunk": 2450
+  },
+  {
+    "head": "世界小说经典",
+    "relation": "包含",
+    "tail": "《悲惨世界》",
+    "source_doc": "丰富多彩的人物形象塑造.doc",
+    "source_chunk": 2525
+  },
+  {
+    "head": "《三国演义》",
+    "relation": "包含",
+    "tail": "战斗场面描写",
+    "source_doc": "多样化的情节结构.doc",
+    "source_chunk": 2611
+  },
+  {
+    "head": "中国古典名著",
+    "relation": "包含",
+    "tail": "《三国演义》",
+    "source_doc": "丰富多彩的人物形象塑造.doc",
+    "source_chunk": 2525
+  },
+  {
+    "head": "隐藏写作技巧",
+    "relation": "包括",
+    "tail": "隐藏环境描写",
+    "source_doc": "小说写作.doc",
+    "source_chunk": 349
+  },
+  {
+    "head": "隐藏写作技巧",
+    "relation": "包含",
+    "tail": "隐藏环境描写",
+    "source_doc": "小说写作.doc",
+    "source_chunk": 920
+  },
+  {
+    "head": "隐藏艺术",
+    "relation": "包括",
+    "tail": "隐藏环境描写",
+    "source_doc": "小说写作.doc",
+    "source_chunk": 919
+  },
+  {
+    "head": "艺术表现能力",
+    "relation": "包括",
+    "tail": "隐藏艺术技巧",
+    "source_doc": "小说创作之魂——欺骗术加催眠术 - 来源网络.doc",
+    "source_chunk": 1625
+  },
+  {
+    "head": "例文指导",
+    "relation": "包含",
+    "tail": "心理描写要真实",
+    "source_doc": "描写人物心理的词语.doc",
+    "source_chunk": 630
+  },
+  {
+    "head": "柳下挥",
+    "relation": "建议",
+    "tail": "一章少出现人物",
+    "source_doc": "柳下挥.doc",
+    "source_chunk": 2450
+  },
+  {
+    "head": "柳下挥",
+    "relation": "建议",
+    "tail": "用外号概括路人",
+    "source_doc": "柳下挥.doc",
+    "source_chunk": 2450
+  },
+  {
+    "head": "柳下挥",
+    "relation": "建议",
+    "tail": "用逆反剧情表现",
+    "source_doc": "柳下挥.doc",
+    "source_chunk": 2451
+  },
+  {
+    "head": "误区",
+    "relation": "包括",
+    "tail": "细节描写的性价比",
+    "source_doc": "2.网络文学创作的误区.doc",
+    "source_chunk": 189
+  },
+  {
+    "head": "《三国演义》",
+    "relation": "包含",
+    "tail": "英雄形象细节描写",
+    "source_doc": "多样化的情节结构.doc",
+    "source_chunk": 2611
+  },
+  {
+    "head": "寄给编辑的小说稿中的错误",
+    "relation": "导致",
+    "tail": "退稿",
+    "source_doc": "17.烟枪谈如何构架写作悬念.doc",
+    "source_chunk": 702
+  },
+  {
+    "head": "写手",
+    "relation": "需要",
+    "tail": "阅历",
+    "source_doc": "2.大神谈如何写好女频文.doc",
+    "source_chunk": 251
+  },
+  {
+    "head": "申签容易失败的共同点",
+    "relation": "包含",
+    "tail": "群穿的书",
+    "source_doc": "1.男频文写作要点.doc",
+    "source_chunk": 834
+  },
+  {
+    "head": "错误的时间",
+    "relation": "导致",
+    "tail": "创意失败",
+    "source_doc": "玄幻与仙侠.doc",
+    "source_chunk": 983
+  },
+  {
+    "head": "写手",
+    "relation": "需要",
+    "tail": "题材创新",
+    "source_doc": "小说速成大纲.doc",
+    "source_chunk": 935
+  },
+  {
+    "head": "申签容易失败的共同点",
+    "relation": "包含",
+    "tail": "多主角的书",
+    "source_doc": "1.男频文写作要点.doc",
+    "source_chunk": 834
+  },
+  {
+    "head": "玄幻仙侠申签容易失败误区",
+    "relation": "包含",
+    "tail": "主角非人类",
+    "source_doc": "1.男频文写作要点.doc",
+    "source_chunk": 834
+  },
+  {
+    "head": "写手",
+    "relation": "需要",
+    "tail": "耐得住寂寞",
+    "source_doc": "13.作者唐川谈玄幻商业写作.doc",
+    "source_chunk": 681
+  },
+  {
+    "head": "写手",
+    "relation": "需要",
+    "tail": "文字有感情",
+    "source_doc": "2.怎样写好玄幻小说.doc",
+    "source_chunk": 812
+  },
+  {
+    "head": "写手",
+    "relation": "需要",
+    "tail": "消灭错别字",
+    "source_doc": "半神攻略.doc",
+    "source_chunk": 2600
+  },
+  {
+    "head": "写手",
+    "relation": "需要",
+    "tail": "避免逻辑错误",
+    "source_doc": "半神攻略.doc",
+    "source_chunk": 2600
+  },
+  {
+    "head": "标题党的禁忌",
+    "relation": "包括",
+    "tail": "不要过分色情",
+    "source_doc": "2.从标题党看小说起名.doc",
+    "source_chunk": 112
+  },
+  {
+    "head": "对话流的常见错误",
+    "relation": "包括",
+    "tail": "标点格式出错",
+    "source_doc": "2.对话技巧详谈：引号开头对话流.doc",
+    "source_chunk": 133
+  },
+  {
+    "head": "写手",
+    "relation": "需要",
+    "tail": "判断流行趋势",
+    "source_doc": "云天空.doc",
+    "source_chunk": 2370
+  },
+  {
+    "head": "写手",
+    "relation": "需要",
+    "tail": "看完5本神作",
+    "source_doc": "半神攻略.doc",
+    "source_chunk": 2600
+  },
+  {
+    "head": "对话流的常见错误",
+    "relation": "包括",
+    "tail": "人物身份不明确",
+    "source_doc": "2.对话技巧详谈：引号开头对话流.doc",
+    "source_chunk": 133
+  },
+  {
+    "head": "申签容易失败的共同点",
+    "relation": "包含",
+    "tail": "设定太奇怪的书",
+    "source_doc": "1.男频文写作要点.doc",
+    "source_chunk": 834
+  },
+  {
+    "head": "写手",
+    "relation": "需要",
+    "tail": "一针见血的指点",
+    "source_doc": "骨刀总结写作资料.doc",
+    "source_chunk": 3104
+  },
+  {
+    "head": "写手",
+    "relation": "建议",
+    "tail": "看美剧和时事新闻",
+    "source_doc": "半神攻略.doc",
+    "source_chunk": 2600
+  },
+  {
+    "head": "玄幻仙侠申签容易失败误区",
+    "relation": "包含",
+    "tail": "剧情背景设定太古怪",
+    "source_doc": "1.男频文写作要点.doc",
+    "source_chunk": 834
+  },
+  {
+    "head": "写手",
+    "relation": "需要",
+    "tail": "从头看一遍自己的文字",
+    "source_doc": "半神攻略.doc",
+    "source_chunk": 2600
+  },
+  {
+    "head": "写手",
+    "relation": "需要",
+    "tail": "控制猪脚实力循序渐进",
+    "source_doc": "半神攻略.doc",
+    "source_chunk": 2600
+  },
+  {
+    "head": "四个人队伍",
+    "relation": "导致",
+    "tail": "读者注意不到插话者是谁",
+    "source_doc": "1.网络小说的爽点是什么.doc",
+    "source_chunk": 143
+  },
+  {
+    "head": "写手",
+    "relation": "需要",
+    "tail": "检查码字速度达到40字/分钟",
+    "source_doc": "半神攻略.doc",
+    "source_chunk": 2600
+  },
+  {
+    "head": "信息处理指南",
+    "relation": "包含",
+    "tail": "注意不能自私地利用儿童的想像力",
+    "source_doc": "消费者行为学 .pdf",
+    "source_chunk": 2103
+  },
+  {
+    "head": "对话流的常见错误",
+    "relation": "包括",
+    "tail": "引号开头的段落太多导致读者不舒适",
+    "source_doc": "2.对话技巧详谈：引号开头对话流.doc",
+    "source_chunk": 133
+  },
+  {
+    "head": "信息处理指南",
+    "relation": "包含",
+    "tail": "产品的使用与功能应以一种能被目标儿童再现的方式呈现",
+    "source_doc": "消费者行为学 .pdf",
+    "source_chunk": 2103
+  }
+]

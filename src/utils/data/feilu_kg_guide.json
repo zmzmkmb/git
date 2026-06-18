@@ -1,0 +1,31 @@
+{
+  "file": "feilu_kg_guide.json",
+  "description": "飞卢知识图谱数据文件说明，供 agents 调用参考",
+  "data_files": {
+    "feilu_bridge_triples.json": "写作理论 → 飞卢实践的桥接三元组（可做 KG 查询）",
+    "feilu_deep_analysis.json": "17 本飞卢热门书的深度分析报告（每本含冲突/节奏/套路分/优缺点）",
+    "feilu_full_stats.json": "1522 本飞卢小说的全量结构化数据（含题材/冲突/金手指/视角等字段）"
+  },
+  "query_examples": [
+    {
+      "query": "金手指",
+      "expected": "飞卢金手指类型分布 → 系统/签到/抽奖/聊天群"
+    },
+    {
+      "query": "开局 冲突",
+      "expected": "飞卢开局冲突分布 → 系统激活35.3%/穿越重生11.8%"
+    },
+    {
+      "query": "火影同人",
+      "expected": "同人-火影 最常见开局冲突 = 系统激活"
+    },
+    {
+      "query": "节奏 爽点",
+      "expected": "飞卢套路公式 → 平均套路符合度7.7/10"
+    },
+    {
+      "query": "Moba电竞",
+      "expected": "游戏-电竞 冲突强度8-9/10 节奏快"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+# ============================================
+# Python
+# ============================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ============================================
+# 虚拟环境（关键：530MB，必须忽略）
+# ============================================
+.venv/
+venv/
+env/
+ENV/
+.python-version
+
+# ============================================
+# 环境变量与密钥（绝不能上传）
+# ============================================
+.env
+.env.local
+.env.*.local
+*.env
+finbot/.env
+
+# ============================================
+# IDE / 编辑器
+# ============================================
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ============================================
+# 项目：旧的占位文件
+# ============================================
+fruit.txt
+PA_Agent
+
+# ============================================
+# 项目：运行时数据（不参与版本控制）
+# ============================================
+src/data/logs/
+src/data/output/
+src/data/_backup/
+src/data/story_state.json
+src/data/editor_knowledge.json
+src/data/reader_knowledge.json
+src/data/writer_knowledge.json
+src/data/knowledge_graph.json
+
+# Aider 编辑器记忆
+files/ice_edits.json
+files/silver_path_memories.json
+files/smart_edits.json
+.conversation_history.json
+
+# ============================================
+# 数据库
+# ============================================
+*.sqlite
+*.sqlite-journal
+*.sqlite-wal
+*.sqlite-shm
+*.db
+
+# ============================================
+# 日志
+# ============================================
+*.log
+logs/
+
+# ============================================
+# 压缩包与可执行文件
+# ============================================
+*.zip
+*.rar
+*.7z
+*.tar
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+*.gz
+*.bz2
+*.xz
+*.exe
+*.msi
+*.bat
+*.cmd
+*.com
+*.scr
+*.dll
+*.dmg
+*.pkg
+*.iso
+*.img
+*.vhd
+*.vmdk
+
+# ============================================
+# Jupyter
+# ============================================
+.ipynb_checkpoints/
+profile_default/
+ipython_config.py
+
+# ============================================
+# 测试 / 覆盖率
+# ============================================
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+htmlcov/
+*.cover
+.hypothesis/
